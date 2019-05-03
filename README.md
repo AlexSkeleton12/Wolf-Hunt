@@ -1,6 +1,7 @@
 # Wolf-Hunt
-A small game coded in C++ where you kill wolves and get better attacks from the number of wolves you kill.
+A small game coded in C++ where you kill wolves.
 Upcoming updates: {
+Depending on the number of wolves you kill, you will get better attacks.
 After you hit a certain amount of wolves you killed, it will give you a weapon to fight easier with.
 Along the way, there will be health potions you can obtain and consume.
 }
